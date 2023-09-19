@@ -1,2 +1,5 @@
 # hello-world
-It is a commonly used phrase in computer programming and serves as the simplest possible program to demonstrate the basic functionality of a programming language.
+
+Hi there!
+
+Joms here! I am someone who loves learn new things and explore new ideas. I enjoy listening to music, watching animes and spending time with friends. I am constantly striving to expand my knowledge and enhance my skills to become a valuable assets in the IT ndustry.
